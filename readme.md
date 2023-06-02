@@ -39,7 +39,7 @@ CentOS7:ok
 2、server_grafana_prometheus.zip包含了grafana，prometheus应用程序，以及添加到系统的服务，即服务端
 
 ## 部署
-###一、被监控端
+### 一、被监控端
 1、在被监控的机器上传客户端到opt目录监控工具并解压
 ```bash
 [root@orcldb4 opt]# ll -hrt /opt/client_node_node_exporter.zip 
